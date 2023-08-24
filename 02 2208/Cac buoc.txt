@@ -1,0 +1,6 @@
+1. cài đặt 
+    mysql-installer-community-8-0-16-0
+2. setup database trên mysql
+3. add Connecttor vào Eclipe
+    mysql-connector-j-8.1.0
+4. sử dụng Eclipe COnnect đến database và thao tác các lệnh inser , select,..
